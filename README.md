@@ -1,2 +1,3 @@
 # Unity3D_AvoidanceVR_Game
-This is a virtual reality game that was uploaded on the google play store supporting VR headsets like google cardboard and google daydream. In this game, the player will have to navigate their way through obstacles across three atmospheric low poly environments to make it to the end.
+
+This is a simple virtual reality game that was created for fun. This game supports VR headsets such as google cardboard and google daydream. The game is set in a vibrant low-poly environment and the goal of it is for the player jump over obstacles and get the highest score possible in an infinitely generating terrain.
